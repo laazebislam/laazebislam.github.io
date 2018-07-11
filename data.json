@@ -1,0 +1,33 @@
+{
+    "axit": {
+        "h3": "axit",
+        "text": "This a responsive and beautiful site ,that i make it from a psd with bootstrap freamwork.",
+        "link": "https://crowndev.000webhostapp.com/portfolio/axit/",
+        "img": "image/axit.png"
+    },
+    "ave": {
+        "h3": "avenue fashion",
+        "text": "This is a project of psd to html: \n - i use bootstrap freamwork to build it. \n - 100 % responsive. \n very fast. \n - this is a live preview to see it :",
+        "link": "https://crowndev.000webhostapp.com/portfolio/ave/",
+        "img": "image/avefashion.png"
+    },
+    "tajem": {
+        "h3": "tajem",
+        "text": "This a responsive front-end page, i make it from a psd without any freamwork.",
+        "link": "https://crowndev.000webhostapp.com/portfolio/tajem/",
+        "img": "image/tajem.png"
+    },
+    "tanatos": {
+        "h3": "tanatos",
+        "text": "I build this front-end page from a psd and i make it responsive, and fast.",
+        "link": "https://crowndev.000webhostapp.com/portfolio/tanatos/",
+        "img": "image/tanatos.png"
+    },
+    "jTimer": {
+        "h3": "jTimer",
+        "text": "It's a jquery plugin for time that control the time with a structure like strftime with a high perfomance.",
+        "link": "https://github.com/laazebislam/jTimer",
+        "img": "image/jtimer.png"
+    }
+
+}
